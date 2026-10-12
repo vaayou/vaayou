@@ -41,7 +41,7 @@ Full-stack order and inventory management platform built with **Java 21, Spring 
 Event-driven e-commerce and digital asset management platform built with **Spring Boot Microservices, Kafka, Docker, and AWS EC2**.
 
 * 🚀 **Live Demo:** [3.6.39.23](http://3.6.39.23/)
-* 💻 **GitHub:** [View Repository](https://github.com/vaayou)
+* 💻 **GitHub:** [View Repository](https://github.com/vaayou/Owned_OS)
 
 ---
 
