@@ -71,20 +71,14 @@ Explore more projects in my [GitHub repositories](https://github.com/vaayou?tab=
 
 ---
 
-### 💡 Developer Mindset
+🐍 My Contributions — Snake Game
 
-```java
-public class PawanRaj {
+Watch the snake hunt down my GitHub contribution cells!
 
-    public static void main(String[] args) {
-        while (true) {
-            learn();
-            build();
-            improve();
-        }
-    }
-}
-```
+
+
+
+<p align="center"> <i>Every commit feeds the snake. Keep coding! 🚀</i> </p>
 
 <p align="center">
   <i>"Build consistently. Learn relentlessly. Ship boldly."</i>
