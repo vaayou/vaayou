@@ -8,7 +8,7 @@ Building full-stack applications, designing distributed systems, and deploying r
 * ☕ Working with **Java, Spring Boot, REST APIs, GraphQL, and Microservices**
 * ⚡ Exploring **Apache Kafka, event-driven architecture, Spring AI, and AI agents**
 * ☁️ Deploying applications using **Docker, AWS, and cloud platforms**
-* 🔭 Building projects that combine backend engineering, distributed systems, and modern UI
+* 🔭 Building projects that combine backend engineering, distributed systems, and modern UI.
 
 ---
 
